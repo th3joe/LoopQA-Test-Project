@@ -1,0 +1,50 @@
+[
+  {
+    "name": "test 1 - Web App - To Do - Feature",
+    "app": "Web Application",
+    "column": "To Do",
+    "task": "Implement user authentication",
+    "tags": ["Feature", "High Priority"],
+    "comments" : "Verifies that the 'Implement user authentication' task is present in the 'To Do' column of the Web Application with the correct tags."
+  },
+  {
+    "name": "test 2 - Web App - In Progress - Bug",
+    "app": "Web Application",
+    "column": "To Do",
+    "task": "Fix navigation bug",
+    "tags": ["Bug"],
+    "comments" : "Verifies that the 'Fix navigation bug' task is present in the 'To Do' column of the Web Application with the correct tags."
+  },
+  {
+    "name": "test 3 - Web App - In Progress - Design",
+    "app": "Web Application",
+    "column": "In Progress",
+    "task": "Design system updates",
+    "tags": ["Design"],
+    "comments" : "Verifies that the 'design system updates' task is present in the 'In Progress' column of the Web Application with the correct tags."
+  },
+  {
+    "name": "test 4 - Mobile App - To Do - Feature",
+    "app": "Mobile Application",
+    "column": "To Do",
+    "task": "Push notification system",
+    "tags": ["Feature"],
+    "comments" : "Verifies that the 'push notification system' task is present in the 'To Do' column of the Mobile Application with the correct tags."
+  },
+  {
+    "name": "test 5 - Mobile App - In Progress - Feature",
+    "app": "Mobile Application",
+    "column": "In Progress",
+    "task": "Offline mode",
+    "tags": ["Feature", "High Priority"],
+    "comments" : "Verifies that the 'offline mode' task is present in the 'In Progress' column of the Mobile Application with the correct tags."
+  },
+  {
+    "name": "test 6 - Mobile App - Done - Design",
+    "app": "Mobile Application",
+    "column": "Done",
+    "task": "App icon design",
+    "tags": ["Design"],
+    "comments" : "Verifies that the 'App icon design' task is present in the 'Done' column of the Mobile Application with the correct tags."
+  }
+]
