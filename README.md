@@ -1,9 +1,14 @@
+Project Title: Loop QA Test Project
+
+Description:
 This is an automation test script created to display competency with the Typescript coding language, and using the suite of tools collectively referred to as Playwright.
 
 The code itself has been created to use what is referred to as "data driven" tests, and is essentially a collection of reusable helper functions that pull thier constant (const) values/variables 
 from one another using import references. The test data is defined as key-value pairs within the dictionary that exists as the testCases. JSON file.
 
-Dependencies for this project are:
+Installation/Usage Instructions:
+
+Dependencies for this project are as follows:
 
   -  Node.js
   -  Visit: https://nodejs.org/en to download node.js
@@ -43,3 +48,11 @@ Playwright Commands are as follows:
   
   npx playwright codegen
   ⦁	Auto Generate tests with Codegen.
+
+
+
+
+
+
+Credits: A list of contributors or team members. 
+Known Issues or Future Features: A section to manage expectations for users and potential contributors. 
