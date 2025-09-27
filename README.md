@@ -1,7 +1,7 @@
 This is an automation test script created to display competency with the Typescript coding language, and using the suite of tools collectively referred to as Playwright.
 
 The code itself has been created to use what is referred to as "data driven" tests, and is essentially a collection of reusable helper functions that pull thier constant (const) values/variables 
-from one another using import references. The tests themselves are defined as key-value pairs within the dictionary that exists as the testCases. JSON file.
+from one another using import references. The test data is defined as key-value pairs within the dictionary that exists as the testCases. JSON file.
 
 Dependencies for this project are:
 
