@@ -25,6 +25,7 @@ Dependencies for this project are as follows:
   -  Visit: https://www.typescriptlang.org/docs/ for a complete list of documentation and articles about using Typescript.
 
 
+<img src ="images/Screenshot 2025-09-26 180851.png">
 
 To run these files locally, you will first need to download the files, and then install each of the dependencies.
 Be sure to utilize playwright npx commands once finished.
